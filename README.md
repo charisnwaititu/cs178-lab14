@@ -1,5 +1,5 @@
 # CS 178 — Lab 14 Starter Repo
-# Charis Waititu
+# Charis N Waititu
 
 This is the starter repository for **Lab 14: Flask Part II**.
 
